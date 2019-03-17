@@ -23,8 +23,8 @@ pero claro, cuando se navega no funciona, se ve el codigo html, no se ven bien l
  
 dir       archivo           comentarios
  
-00manu                ----> aqui he dejado los html de los marcadores
-css                   ----> el ejemplito de bootstrap del blog usaba un css que puse aqui
+00manu                ----> aqui he dejado los html de los marcadores<br>
+css                   ----> el ejemplito de bootstrap del blog usaba un css que puse aqui<br>
 dist                  ----> el bootstrap y el jquery
 html                  ----> mis paginas
 js                    ----> un js del ejemplito de bootstrap
