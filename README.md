@@ -21,13 +21,13 @@ http://htmlpreview.github.io/?https://github.com/manuelyt/web/blob/master/index.
 el index se ve de puta madre, se ve chulo, y se ve bien en el movil
 pero claro, cuando se navega no funciona, se ve el codigo html, no se ven bien las paginas
  
-dir       archivo           comentarios
+dir   archivo           comentarios
  
-00manu                ----> aqui he dejado los html de los marcadores
-css                   ----> el ejemplito de bootstrap del blog usaba un css que puse aqui
-dist                  ----> el bootstrap y el jquery
-html                  ----> mis paginas
-js                    ----> un js del ejemplito de bootstrap
+00manu         ----> aqui he dejado los html de los marcadores
+css            ----> el ejemplito de bootstrap del blog usaba un css que puse aqui
+dist           ----> el bootstrap y el jquery
+html           ----> mis paginas
+js             ----> un js del ejemplito de bootstrap
          README.md
  
  
